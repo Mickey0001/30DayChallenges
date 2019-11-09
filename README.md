@@ -12,7 +12,7 @@ For API exploratory testing I'd use Postman, the course I started on it seems li
 ## Day 3
 I started reading a book on API testing, by Alan Richardson, the dude behind the Evil Tester podcast, the name ain't "good" but the content is! 😀
 
-## Day 3
+## Day 4
 I really like the MDN's explanation of HTTP protocol, so here it is: [MDN - An Overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 
 ![30 Days Of API Testing Challenge Goals](30DaysOfAPITestingChecklist.png)
