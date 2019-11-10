@@ -15,7 +15,7 @@ I started reading a book on API testing, by Alan Richardson, the dude behind the
 ## Day 4
 I really like the MDN's explanation of HTTP protocol, so here it is: [MDN - An Overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 
-## Day 4
+## Day 5
 Here's a few [publicly available API's](https://rapidapi.com/collection/list-of-free-apis) that can be used for learning purposes.
 
 ![30 Days Of API Testing Challenge Goals](30DaysOfAPITestingChecklist.png)
