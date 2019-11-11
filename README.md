@@ -18,5 +18,8 @@ I really like the MDN's explanation of HTTP protocol, so here it is: [MDN - An O
 ## Day 5
 Here's a few [publicly available API's](https://rapidapi.com/collection/list-of-free-apis) that can be used for learning purposes.
 
+## Day 6
+Today I read an interesting blog post with 10 tips for API testing, [here it is](https://www.katalon.com/resources-center/blog/api-testing-tips/).
+
 ![30 Days Of API Testing Challenge Goals](30DaysOfAPITestingChecklist.png)
 
