@@ -21,5 +21,8 @@ Here's a few [publicly available API's](https://rapidapi.com/collection/list-of-
 ## Day 6
 Today I read an interesting blog post with 10 tips for API testing, [here it is](https://www.katalon.com/resources-center/blog/api-testing-tips/).
 
+## Day 7
+Made a GET and POST request, yea I'm an expert! 😆
+
 ![30 Days Of API Testing Challenge Goals](30DaysOfAPITestingChecklist.png)
 
