@@ -24,5 +24,8 @@ Today I read an interesting blog post with 10 tips for API testing, [here it is]
 ## Day 7
 Made a GET and POST request, yea I'm an expert! 😆
 
+## Day 8
+Checked out the [API forum thread](https://club.ministryoftesting.com/c/all-testing-talk/api) over at MoT and kept reading the book about API's I started a few days ago.
+
 ![30 Days Of API Testing Challenge Goals](30DaysOfAPITestingChecklist.png)
 
