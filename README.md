@@ -30,5 +30,11 @@ Checked out the [API forum thread](https://club.ministryoftesting.com/c/all-test
 ## Day 9: 
 To discover the API calls our app is making we can use tools such as Fiddler.
 
+## Day 10: 
+My favorite API testing tools are Postman and Fiddler, because they're pretty intuitive and easy to use.
+
+## Day 11: 
+There are several [different types of API](https://www.decipherzone.com/blog-detail/Types-of-APIs)
+
 ![30 Days Of API Testing Challenge Goals](30DaysOfAPITestingChecklist.png)
 
