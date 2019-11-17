@@ -36,5 +36,12 @@ My favorite API testing tools are Postman and Fiddler, because they're pretty in
 ## Day 11: 
 There are several [different types of API](https://www.decipherzone.com/blog-detail/Types-of-APIs)
 
+## Day 12:
+For a team to succeed in API testing they need:
+- Good overall testing skills
+- Programming knowledge 
+- Database knowledge
+- Use of tools like Postman, Swagger, Fiddler SoapUI, etc.
+
 ![30 Days Of API Testing Challenge Goals](30DaysOfAPITestingChecklist.png)
 
