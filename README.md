@@ -43,5 +43,17 @@ For a team to succeed in API testing they need:
 - Database knowledge
 - Use of tools like Postman, Swagger, Fiddler SoapUI, etc.
 
+## Day 13:
+Some of the tools (I used only Postman, thus far) that can be used for API automation are: 
+- SoapUI
+- Katalon Studio
+- Postman
+- Tricentis Tosca
+- Apigee
+- JMeter (mostly used for load testing, though)
+- Rest-Assured
+- Assertible
+- Karate DSL
+
 ![30 Days Of API Testing Challenge Goals](30DaysOfAPITestingChecklist.png)
 
