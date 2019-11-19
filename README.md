@@ -1,5 +1,5 @@
 # 30DaysOfApiTesting
-For 30 Days Of API Testing challenge
+For 30 Days Of API Testing challenge, checklist with the goals is available [here](https://www.ministryoftesting.com/dojo/lessons/30-days-of-api-testing).
 
 ![30 Days Of API Testing Challenge Badge](30_Days_of_API_Testing_Images_BADGE.png)
 
