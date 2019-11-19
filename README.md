@@ -19,7 +19,7 @@ I really like the MDN's explanation of HTTP protocol, so here it is: [MDN - An O
 Here's a few [publicly available API's](https://rapidapi.com/collection/list-of-free-apis) that can be used for learning purposes.
 
 ## Day 6
-Today I read an interesting blog post with 10 tips for API testing, [here it is](https://www.katalon.com/resources-center/blog/api-testing-tips/).
+Today I read an interesting blog post with 10 tips for API testing, [here it is](https://www.katalon.com/resources-center/blog/api-testing-tips).
 
 ## Day 7
 Made a GET and POST request, yea I'm an expert! 😆
