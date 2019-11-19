@@ -60,5 +60,5 @@ Some of the tools (I used only Postman, thus far) that can be used for API autom
 - Stub: Similar to mock, but it doesn't provide the ability to verify that the method has been called.
 - Fake: a class the implements an interface, but has no fixed data or logic.
 
-![30 Days Of API Testing Challenge Goals](30DaysOfAPITestingChecklist.png)
+
 
