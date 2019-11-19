@@ -27,23 +27,23 @@ Made a GET and POST request, yea I'm an expert! 😆
 ## Day 8
 Checked out the [API forum thread](https://club.ministryoftesting.com/c/all-testing-talk/api) over at MoT and kept reading the book about API's I started a few days ago.
 
-## Day 9: 
+## Day 9
 To discover the API calls our app is making we can use tools such as Fiddler.
 
-## Day 10: 
+## Day 10
 My favorite API testing tools are Postman and Fiddler, because they're pretty intuitive and easy to use.
 
-## Day 11: 
+## Day 11
 There are several [different types of API](https://www.decipherzone.com/blog-detail/Types-of-APIs)
 
-## Day 12:
+## Day 12
 For a team to succeed in API testing they need:
 - Good overall testing skills
 - Programming knowledge 
 - Database knowledge
 - Use of tools like Postman, Swagger, Fiddler SoapUI, etc.
 
-## Day 13:
+## Day 13
 Some of the tools (I used only Postman, thus far) that can be used for API automation are: 
 - SoapUI
 - Katalon Studio
@@ -54,6 +54,11 @@ Some of the tools (I used only Postman, thus far) that can be used for API autom
 - Rest-Assured
 - Assertible
 - Karate DSL
+
+## Day 14
+- Mock: an object on which you set expectations
+- Stub: Similar to mock, but it doesn't provide the ability to verify that the method has been called.
+- Fake: a class the implements an interface, but has no fixed data or logic.
 
 ![30 Days Of API Testing Challenge Goals](30DaysOfAPITestingChecklist.png)
 
