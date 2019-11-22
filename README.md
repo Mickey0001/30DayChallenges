@@ -63,5 +63,8 @@ Some of the tools (I used only Postman, thus far) that can be used for API autom
 ## Day 15
 Today I tried a new API tool, a Chrome extension: Talend API Tester - Free Edition.
 
+## Day 16
+Started writing little API tests, in Postman, using JavaScript.
+
 
 
