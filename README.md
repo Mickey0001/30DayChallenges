@@ -66,5 +66,12 @@ Today I tried a new API tool, a Chrome extension: Talend API Tester - Free Editi
 ## Day 16
 Started writing little API tests, in Postman, using JavaScript.
 
+## Day 17
+I found 5 API testing experts on Twitter to follow:
+- @GregPaskal
+- @AutomationSbS 
+- @ptrthomas 
+- @mittsh 
+- @honzajavorek 
 
 
