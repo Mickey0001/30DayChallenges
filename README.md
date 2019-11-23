@@ -74,4 +74,19 @@ I found 5 API testing experts on Twitter to follow:
 - @mittsh 
 - @honzajavorek 
 
+## Day 18
+A bit on HTTP headers:
+- authority : the host/domain or the request
+- method : POST method.
+- path : relative path of content.
+- accept : certain media types which are acceptable for the response.
+- accept-encoding: similar to accept, but restricts the content-codings that are acceptable in the response
+- accept-language : set of natural languages that are preferred as a response to the request
+- content-length : the size of the entity-body, in decimal number of OCTETs, sent to the recipient or, in the case of the HEAD method, the size of the entity-body that would 
+- have been sent, had the request been a GET
+- content-type : indicates the media type of the entity-body sent to the recipient
+- cookie : contains a name/value pair of information stored for that URL
+- user-agent : contains information about the user agent originating the request
+- Form Data - timings: The responded time from API(milisecond)
+
 
