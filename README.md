@@ -89,4 +89,5 @@ A bit on HTTP headers:
 - user-agent : contains information about the user agent originating the request
 - Form Data - timings: The responded time from API(milisecond)
 
-
+## Day 19
+I found an useful [video on exploratory API testing for response validation](https://www.youtube.com/watch?v=tNJqy0IRZ2s), on one of my favorite Youtube channels.
