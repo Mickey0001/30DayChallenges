@@ -91,3 +91,6 @@ A bit on HTTP headers:
 
 ## Day 19
 I found an useful [video on exploratory API testing for response validation](https://www.youtube.com/watch?v=tNJqy0IRZ2s), on one of my favorite Youtube channels.
+
+## Day 20 
+Thus far, I've used Fiddler, Postman, Chrome DevTools and Visual Studio for API testing, the reasons are twofold, API testing helps me at work and I enjoy learning about it, it's much more interesting to me than UI testing.
