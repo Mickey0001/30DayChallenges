@@ -94,3 +94,9 @@ I found an useful [video on exploratory API testing for response validation](htt
 
 ## Day 20 
 Thus far, I've used Fiddler, Postman, Chrome DevTools and Visual Studio for API testing, the reasons are twofold, API testing helps me at work and I enjoy learning about it, it's much more interesting to me than UI testing.
+
+## Day 21
+ Completed the exercise by chaining API calls in Postman, [used this site](https://automationintesting.online) for practicing.
+
+## Day 22
+My biggest frustration with API testing is that I don't know everything about it! 😆
