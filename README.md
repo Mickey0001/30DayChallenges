@@ -102,7 +102,10 @@ Thus far, I've used Fiddler, Postman, Chrome DevTools and Visual Studio for API 
 My biggest frustration with API testing is that I don't know everything about it! 😆
 
 ## Day 23 
-My favorite resource for understating status codes is this one - [HTTP Cats](https://http.cat/)
+My favorite resource for understating status codes is this one - [HTTP Cats](https://http.cat)
 
 ## Day 24
 The best API bug I've found wasn't a bug at all, I forgot to add the authorization in Postman  and I kept wondering why the browser client and Postman client returned two different responses... Yea I'm that smart! 🤪
+
+## Day 25
+Today I read about [security testing of APIs](https://www.testbytes.net/blog/api-security-testing-rules-and-checklist).
