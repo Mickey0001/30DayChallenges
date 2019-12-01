@@ -109,3 +109,6 @@ The best API bug I've found wasn't a bug at all, I forgot to add the authorizati
 
 ## Day 25
 Today I read about [security testing of APIs](https://www.testbytes.net/blog/api-security-testing-rules-and-checklist).
+
+## Day 26
+I showed a co-worked some of the stuff I do in Postman and in turn he showed me how to use an internal (Swagger based) API resource. 
