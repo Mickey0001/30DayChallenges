@@ -112,3 +112,6 @@ Today I read about [security testing of APIs](https://www.testbytes.net/blog/api
 
 ## Day 26
 I showed a co-worked some of the stuff I do in Postman and in turn he showed me how to use an internal (Swagger based) API resource. 
+
+## Day 27
+For someone just getting started with API testing I'd recommend [the following Medium article](https://medium.com/katalon-studio/introduction-to-api-testing-complete-guide-for-newbie-426eac6edb4d).
