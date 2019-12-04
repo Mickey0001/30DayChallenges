@@ -115,3 +115,9 @@ I showed a co-worked some of the stuff I do in Postman and in turn he showed me 
 
 ## Day 27
 For someone just getting started with API testing I'd recommend [the following Medium article](https://medium.com/katalon-studio/introduction-to-api-testing-complete-guide-for-newbie-426eac6edb4d).
+
+## Day 28
+API performance testing can be done with tools like JMeter, [I read an interesting article about it today](https://www.3pillarglobal.com/insights/performance-testing-of-a-restful-api-using-jmeter).
+
+## Day 29
+I use Chrome Dev Tool practically every day while testing, [here's how to get started](https://qxf2.com/blog/api-testing-developer-tools).
