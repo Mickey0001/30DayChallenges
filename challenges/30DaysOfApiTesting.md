@@ -1,7 +1,5 @@
 # 30DaysOfApiTesting
-For 30 Days Of API Testing challenge, checklist with the goals is available [here](https://www.ministryoftesting.com/dojo/lessons/30-days-of-api-testing).
-
-![30 Days Of API Testing Challenge Badge](30_Days_of_API_Testing_Images_BADGE.png)
+30 Days Of API Testing challenge, checklist with the goals is available [here](https://www.ministryoftesting.com/dojo/lessons/30-days-of-api-testing).
 
 ## Day 1
 Found a defintion of API testing: “API testing involves testing the application programming interfaces (APIs) directly and as part of integration testing to determine if they meet expectations for functionality, reliability, performance, and security.” 
