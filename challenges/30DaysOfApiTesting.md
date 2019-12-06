@@ -119,3 +119,6 @@ API performance testing can be done with tools like JMeter, [I read an interesti
 
 ## Day 29
 I use Chrome Dev Tool practically every day while testing, [here's how to get started](https://qxf2.com/blog/api-testing-developer-tools).
+
+## Day 30 
+Completed [exercise four](https://club.ministryoftesting.com/t/30-days-of-api-testing-day-30-complete-exercise-4/19640) using Postman, I plan to return to it in order to experiment some more. Signing up for a trial of API Fortress as bonus.
