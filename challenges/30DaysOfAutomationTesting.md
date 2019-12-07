@@ -1,5 +1,5 @@
-# 30DaysOfAutomationTesting
-30 Days Of Automation Testing challenge, checklist with the goals is available [here](https://www.ministryoftesting.com/dojo/series/30-days-of-testing/lessons/30-days-of-automation-in-testing).
+# # 30DaysOfAutomationInTesting
+30 Days Of Automation in Testing challenge, checklist with the goals is available [here](https://www.ministryoftesting.com/dojo/series/30-days-of-testing/lessons/30-days-of-automation-in-testing).
 
 ## Day 1
 - Automation is the technology by which a process or procedure is performed without human assistance. 

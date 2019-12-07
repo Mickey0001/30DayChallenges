@@ -6,7 +6,7 @@ For keeping track of 30 day learning challenges.
 
 ![30 Days Of API Testing Challenge Badge](images/30DaysOfAPITestingImagesBADGE.png)
 
-## 30DaysOfAutomationTesting
+## 30DaysOfAutomationInTesting
 30 Days Of Automatuin in Testing challenge, checklist with the goals is available [here](https://www.ministryoftesting.com/dojo/series/30-days-of-testing/lessons/30-days-of-automation-in-testing).  
 
 ![30 Days Of Automatuin in Testing Badge](images/30DaysOfAutomationTestingBadge.png)
