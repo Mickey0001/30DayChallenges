@@ -4,3 +4,6 @@
 ## Day 1
 - Automation is the technology by which a process or procedure is performed without human assistance. 
 - Test Automation uses special software tools to automate some repetitive but necessary tasks in a formalized testing process already in place, or perform additional testing that would be difficult to do manually. Test automation is critical for continuous delivery and continuous testing.
+
+## Day 2
+Started reading a book by Mark Fewster & Dorothy Graham, labeled: "Software test automation" it's almost 600 pages long, hopefully I'll be able to finish it by day 30.
