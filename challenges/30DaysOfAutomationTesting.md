@@ -7,3 +7,6 @@
 
 ## Day 2
 Started reading a book by Mark Fewster & Dorothy Graham, labeled: "Software test automation" it's almost 600 pages long, hopefully I'll be able to finish it by day 30.
+
+## Day 3
+Explored and participated in the forum (The Club) [thread on automation](https://club.ministryoftesting.com/c/all-testing-talk/automation) at the Ministry of Testing.
