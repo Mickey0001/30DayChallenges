@@ -10,3 +10,6 @@ Started reading a book by Mark Fewster & Dorothy Graham, labeled: "Software test
 
 ## Day 3
 Explored and participated in the forum (The Club) [thread on automation](https://club.ministryoftesting.com/c/all-testing-talk/automation) at the Ministry of Testing.
+
+## Day 4
+Read about what kind of types of tests can be automated, I knew most of this stuff but it's always got to hear different opinions - being narrow minded in IT is the dumbest thing you can be. 🤓
