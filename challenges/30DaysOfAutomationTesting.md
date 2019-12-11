@@ -13,3 +13,6 @@ Explored and participated in the forum (The Club) [thread on automation](https:/
 
 ## Day 4
 Read about what kind of types of tests can be automated, I knew most of this stuff but it's always got to hear different opinions - being narrow minded in IT is the dumbest thing you can be. 🤓
+
+## Day 5
+I've used Selenium and it's IDE, for UI automation. Tests recorded with Selenium IDE can be brittle and not very maintainable in the long term, but it's useful for getting the XPaths, the browser's DOM explorer can be used for this as well.
