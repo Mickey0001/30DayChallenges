@@ -16,3 +16,13 @@ Read about what kind of types of tests can be automated, I knew most of this stu
 
 ## Day 5
 I've used Selenium and it's IDE, for UI automation. Tests recorded with Selenium IDE can be brittle and not very maintainable in the long term, but it's useful for getting the XPaths, the browser's DOM explorer can be used for this as well.
+
+## Day 6
+To success in automation testing a team needs to: 
+- Be good at manual testing
+- Have good coding skills
+- Be strong in domain knowledge
+- Know how to use automation tools
+- Understand the Automation Testing Life Cycle
+- Create a test automation strategy
+- Stay updated on industry trends
