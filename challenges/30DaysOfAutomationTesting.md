@@ -26,3 +26,10 @@ To success in automation testing a team needs to:
 - Understand the Automation Testing Life Cycle
 - Create a test automation strategy
 - Stay updated on industry trends
+
+## Day 7
+How to choose which tools to use in testing? 
+1. Identify your requirements 
+2. Evaluate the tools and vendors 
+3. Estimate cost and the benefits 
+4. Make the final decision
