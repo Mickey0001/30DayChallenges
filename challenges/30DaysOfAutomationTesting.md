@@ -33,3 +33,6 @@ How to choose which tools to use in testing?
 2. Evaluate the tools and vendors 
 3. Estimate cost and the benefits 
 4. Make the final decision
+
+## Day 8
+I showed a non-technical person how to execute automated tests using the Test Explorer in Visual Studio.
