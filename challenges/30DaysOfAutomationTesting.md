@@ -36,3 +36,6 @@ How to choose which tools to use in testing?
 
 ## Day 8
 I showed a non-technical person how to execute automated tests using the Test Explorer in Visual Studio.
+
+## Day 9
+[Swagger](https://swagger.io/blog/api-development/getting-started-with-swagger-i-what-is-swagger/) is an open-source software framework used for desigining, buidling, documenting and consuming RESTful web services.
