@@ -39,3 +39,6 @@ I showed a non-technical person how to execute automated tests using the Test Ex
 
 ## Day 9
 [Swagger](https://swagger.io/blog/api-development/getting-started-with-swagger-i-what-is-swagger/) is an open-source software framework used for desigining, buidling, documenting and consuming RESTful web services.
+
+## Day 10
+Deleted a few duplicate lines of code in my unit test, moved a few checks to a separate test in order to tidy things up a bit. Hearing about the broken window theory, on the @ABT_Podcast nudged me to do it. 
