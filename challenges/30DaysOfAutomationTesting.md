@@ -45,3 +45,10 @@ Deleted a few duplicate lines of code in my unit test, moved a few checks to a s
 
 ## Day 11
 I already did this - compare and contrast Mocking,Stubbing and Faking, as a part of 30 day of API testing, but if someone is interested [here it is](https://club.ministryoftesting.com/t/30-days-of-automation-in-testing-day-11-compare-and-contrast-mocking-stubbing-and-faking/16699).
+
+## Day 12
+I read an interesting [blog on test automation today](https://www.eviltester.com/blog/eviltester/quora/2019-02-25-what-is-easier).
+
+## Day 13
+My favorite automation tool is: Visual Studio - Enterprise Edition! Why? Because it's like a Star Destroy, it's packed with wide arsenal of features, lot of them very useful in test automation - with test explorer being the most obvious one.
+
