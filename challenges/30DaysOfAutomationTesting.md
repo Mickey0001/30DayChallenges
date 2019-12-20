@@ -52,3 +52,10 @@ I read an interesting [blog on test automation today](https://www.eviltester.com
 ## Day 13
 My favorite automation tool is: Visual Studio - Enterprise Edition! Why? Because it's like a Star Destroy, it's packed with wide arsenal of features, lot of them very useful in test automation - with test explorer being the most obvious one.
 
+## Day 14
+Find 5 automation experts to follow on Twitter:
+@Toinedotcom 
+@jlipps 
+@PeetRonics 
+@magda0s 
+@DolinskiAndrzej 
