@@ -62,3 +62,6 @@ Find 5 automation experts to follow on Twitter:
 
 ## Day 15
 I've done some research on Protractor, I plan to use it for the UI test suite when I finally decide to re-do my portfolio in Angular - I made myself and epic with two feature stories in Azure DevOps, it's a start.
+
+## Day 16
+The most valuable piece of automation being used by your team is an extensive automated regression suite that's cover several inter-dependent systems, I can't go into specifics, NDA's and whatnot. 🤓
