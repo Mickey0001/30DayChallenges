@@ -59,3 +59,6 @@ Find 5 automation experts to follow on Twitter:
 @PeetRonics 
 @magda0s 
 @DolinskiAndrzej 
+
+## Day 15
+I've done some research on Protractor, I plan to use it for the UI test suite when I finally decide to re-do my portfolio in Angular - I made myself and epic with two feature stories in Azure DevOps, it's a start.
