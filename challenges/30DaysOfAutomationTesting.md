@@ -65,3 +65,10 @@ I've done some research on Protractor, I plan to use it for the UI test suite wh
 
 ## Day 16
 The most valuable piece of automation being used by your team is an extensive automated regression suite that's cover several inter-dependent systems, I can't go into specifics, NDA's and whatnot. 🤓
+
+## Day 17
+ Advice For People Getting Started:
+- Don't neglect business logic and/or manual testing
+- Understand the problem 
+- Choose a tool
+- Have a decent understating of programming
