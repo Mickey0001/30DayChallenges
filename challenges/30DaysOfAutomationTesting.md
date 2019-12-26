@@ -72,3 +72,7 @@ The most valuable piece of automation being used by your team is an extensive au
 - Understand the problem 
 - Choose a tool
 - Have a decent understating of programming
+
+## Day 18
+How to do mock for your unit tests in C#
+https://www.youtube.com/watch?v=DwbYxP-etMY&t=25s
