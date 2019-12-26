@@ -76,3 +76,7 @@ The most valuable piece of automation being used by your team is an extensive au
 ## Day 18
 How to do mock for your unit tests in C#
 https://www.youtube.com/watch?v=DwbYxP-etMY&t=25s
+
+## Day 19
+Today I read an interesting blog on testability:
+https://smartbear.com/blog/test-and-monitor/knowledge-is-power-when-it-comes-to-software-testa/
