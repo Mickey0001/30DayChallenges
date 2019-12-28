@@ -82,4 +82,8 @@ Today I read an interesting blog on [testability](https://smartbear.com/blog/tes
 ## Day  20
 Visually, my current test in my learning project work something like [this](https://www.researchgate.net/profile/Robert_Hierons/publication/241630975/figure/fig1/AS:393275971260433@1470775706548/CFG-of-unit-testing.png).
 
+## Day  21
+I tried making my unit test execute faster by spiting one test into four smaller ones.
 
+## Day  22
+My biggest frustration with automation testing is that I still don't know how much exactly I don't know about it. 🤪
