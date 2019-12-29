@@ -87,3 +87,6 @@ I tried making my unit test execute faster by spiting one test into four smaller
 
 ## Day  22
 My biggest frustration with automation testing is that I still don't know how much exactly I don't know about it. 🤪
+
+## Day  23
+Lately I've been reading about Applitools, a visual UI, AI assisted testing tool, a QA presentation at an internal company meetup peeked my interest about it. I think I'll give that trial a "trial" as soon as I find time. 🧐
