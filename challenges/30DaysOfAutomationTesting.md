@@ -90,3 +90,6 @@ My biggest frustration with automation testing is that I still don't know how mu
 
 ## Day  23
 Lately I've been reading about Applitools, a visual UI, AI assisted testing tool, a QA presentation at an internal company meetup peeked my interest about it. I think I'll give that trial a "trial" as soon as I find time. 🧐
+
+## Day  24
+I'm not doing much automation at the moment in my team (I work on investigating prod issues) as most of the scenarios have been covered by regression. We sometimes do automate tests for certain edge cases.
