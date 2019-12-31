@@ -93,3 +93,9 @@ Lately I've been reading about Applitools, a visual UI, AI assisted testing tool
 
 ## Day  24
 I'm not doing much automation at the moment in my team (I work on investigating prod issues) as most of the scenarios have been covered by regression. We sometimes do automate tests for certain edge cases.
+
+## Day  25
+Actions take before automating tests:
+-Write the manual test case
+-Try to use web services when possible instead of fully automating the UI, as UI test are the slowest ones
+-Send for peer review and code review afterwards 
