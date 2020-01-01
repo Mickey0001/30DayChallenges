@@ -99,3 +99,6 @@ Actions take before automating tests:
 -Write the manual test case
 -Try to use web services when possible instead of fully automating the UI, as UI test are the slowest ones
 -Send for peer review and code review afterwards 
+
+## Day  26
+For mobile testing I've used Browserstack in the past as it offers the ability to test using real remote physical devices, aside from that I'd love to give Appium a try one day as well. 
