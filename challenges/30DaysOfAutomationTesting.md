@@ -102,3 +102,10 @@ Actions take before automating tests:
 
 ## Day  26
 For mobile testing I've used Browserstack in the past as it offers the ability to test using real remote physical devices, aside from that I'd love to give Appium a try one day as well. 
+
+## Day  27
+For automation we use
+- NUnit for the regression suite
+- C# for the automation framework 
+- Visual Studio for writing and debugging tests
+- TeamCity for the CI/CD pipeline
