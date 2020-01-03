@@ -109,3 +109,7 @@ For automation we use
 - C# for the automation framework 
 - Visual Studio for writing and debugging tests
 - TeamCity for the CI/CD pipeline
+- Xray Jira plugin for test cases
+
+## Day  28
+For this part of the challenge I'll send some of the unit test I wrote to a fellow developer for review.
