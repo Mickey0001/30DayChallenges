@@ -113,3 +113,7 @@ For automation we use
 
 ## Day  28
 For this part of the challenge I'll send some of the unit test I wrote to a fellow developer for review.
+
+## Day  29
+Share how you manage test data in your automated checks:
+- We're migrating from CSV Excel files to JSON files
