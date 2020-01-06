@@ -117,3 +117,6 @@ For this part of the challenge I'll send some of the unit test I wrote to a fell
 ## Day  29
 Share how you manage test data in your automated checks:
 - We're migrating from CSV Excel files to JSON files
+
+## Day 30 
+If I could create any test tool I would create a tool that checks how bitcoins could be mined faster.
