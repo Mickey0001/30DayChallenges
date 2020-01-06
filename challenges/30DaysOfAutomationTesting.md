@@ -1,4 +1,4 @@
-# # 30DaysOfAutomationInTesting
+30DaysOfAutomationInTesting
 30 Days Of Automation in Testing challenge, checklist with the goals is available [here](https://www.ministryoftesting.com/dojo/series/30-days-of-testing/lessons/30-days-of-automation-in-testing).
 
 ## Day 1
